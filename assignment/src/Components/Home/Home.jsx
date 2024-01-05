@@ -345,9 +345,7 @@ const data =  useSelector((store=>{
                 <td>{data.year}</td>
                 <td>{(data.Emissions/data.er).toFixed(1)}</td>
              <td>
-              {
-                (data.mom) > 0 ? ${data.mom}: ${data.mon}
-              }
+              {data.mom}
               </td>                     
 </tr>
 
