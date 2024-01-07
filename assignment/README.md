@@ -9,7 +9,7 @@ This will run the app in development mode. Open http://localhost:3000 to view it
 
 Explore the UI:
 
-1.lick on the sidebar options to navigate through the functionalities.
+1.lick on the sidebar options to navigate through the functionalities.<br/>
 2. Test the collapsible multiple options under "Energy" and hardcoded options for the rest.
 3. Use date filters to filter data displayed in charts and tables.
 4. Toggle legends on/off in the bar chart.
