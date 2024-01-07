@@ -29,4 +29,7 @@ Technologies Used :
 View of the website
 
 <img src= "src/Components/Assests/ss1.png">
+<img src= "src/Components/Assests/ss2.png">
+<img src= "src/Components/Assests/ss3.png">
+
 
